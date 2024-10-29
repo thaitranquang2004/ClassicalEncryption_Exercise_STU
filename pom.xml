@@ -10,4 +10,5 @@
         <maven.compiler.release>23</maven.compiler.release>
         <exec.mainClass>Mahoacodien.MaHoaCoDien_2</exec.mainClass>
     </properties>
+    <name>ClassicalEncryption_Exercise_STU</name>
 </project>
